@@ -68,9 +68,9 @@ namespace EstoqueProduto.Model
             {
                 using (var context = new DataContext())
                 {                   
-                    context.Delete(this.GetProduto(id));
+                    context.Delete(this.BuscarProduto(id));
                     
-                    if(this.GetProduto(id) == null)
+                    if(this.BuscarProduto(id) == null)
                         return "O Produto foi deletado.";
                     else
                         return "Houve um erro ao deletar o produto.";
