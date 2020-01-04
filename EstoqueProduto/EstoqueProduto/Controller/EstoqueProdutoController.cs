@@ -9,8 +9,8 @@ namespace EstoqueProduto.Controller
     [ApiController]
     public class EstoqueProdutoController : ControllerBase
     {
-        [HttpGet("GetProduto")]
-        public List<Produto> GetProduto()
+        [HttpGet("GetProdutos")]
+        public List<Produto> GetProdutos()
         {
             return new Estoque().BuscarProdutos();
         }
@@ -38,8 +38,5 @@ namespace EstoqueProduto.Controller
         {
             return new Estoque().SalvarProduto(produto);
         }
-
-
-
     }
 }
