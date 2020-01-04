@@ -9,9 +9,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="DataFramework">
-      <HintPath>..\Data\bin\Debug\netstandard2.1\DataFramework.dll</HintPath>
-    </Reference>
+    <Folder Include="Controller\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Data\Data.csproj" />
   </ItemGroup>
 
 </Project>
