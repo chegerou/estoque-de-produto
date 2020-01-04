@@ -7,7 +7,7 @@ namespace EstoqueProduto.Model
 {
     public class Estoque
     {
-        public List<Produto> GetProdutos()
+        public static List<Produto> BuscarProdutos()
         {
             try
             {
@@ -23,7 +23,7 @@ namespace EstoqueProduto.Model
             }
         }
 
-        public Produto GetProduto(int id)
+        public static Produto BuscarProduto(int id)
         {
             try
             {
@@ -39,7 +39,7 @@ namespace EstoqueProduto.Model
             }
         }
 
-        public Produto UpdateProduto(Produto modifyProduto)
+        public static Produto AtualizarProduto(Produto modifyProduto)
         {
             try
             {
@@ -62,7 +62,7 @@ namespace EstoqueProduto.Model
             }
         }
 
-        public string DeleteProduto(int id)
+        public static string DeletarProduto(int id)
         {
             try
             {
@@ -82,7 +82,7 @@ namespace EstoqueProduto.Model
             }
         }
 
-        public Produto SaveProduto(Produto newProduto)
+        public static Produto SalvarProduto(Produto newProduto)
         {
             try
             {
