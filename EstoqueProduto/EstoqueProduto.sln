@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstoqueProduto", "EstoqueProduto\EstoqueProduto.csproj", "{7F1DE832-9F26-4AD4-A3C2-0814A3E0003E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataFramework", "Data\DataFramework.csproj", "{DE1A5586-939C-4E95-B4F8-8694421F0462}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{DE1A5586-939C-4E95-B4F8-8694421F0462}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

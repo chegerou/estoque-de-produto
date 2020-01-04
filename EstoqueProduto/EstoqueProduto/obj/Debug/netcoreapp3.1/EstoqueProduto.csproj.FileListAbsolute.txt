@@ -15,8 +15,6 @@ C:\Projetos\estoque-de-produto\EstoqueProduto\EstoqueProduto\obj\Debug\netcoreap
 C:\Projetos\estoque-de-produto\EstoqueProduto\EstoqueProduto\obj\Debug\netcoreapp3.1\EstoqueProduto.RazorTargetAssemblyInfo.cache
 C:\Projetos\estoque-de-produto\EstoqueProduto\EstoqueProduto\obj\Debug\netcoreapp3.1\EstoqueProduto.dll
 C:\Projetos\estoque-de-produto\EstoqueProduto\EstoqueProduto\obj\Debug\netcoreapp3.1\EstoqueProduto.pdb
-C:\Projetos\estoque-de-produto\EstoqueProduto\EstoqueProduto\bin\Debug\netcoreapp3.1\DataFramework.dll
-C:\Projetos\estoque-de-produto\EstoqueProduto\EstoqueProduto\bin\Debug\netcoreapp3.1\DataFramework.pdb
 C:\Projetos\estoque-de-produto\EstoqueProduto\EstoqueProduto\obj\Debug\netcoreapp3.1\EstoqueProduto.csproj.CopyComplete
 C:\Projetos\estoque-de-produto\EstoqueProduto\EstoqueProduto\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
 C:\Projetos\estoque-de-produto\EstoqueProduto\EstoqueProduto\bin\Debug\netcoreapp3.1\EntityFramework.dll
@@ -36,3 +34,9 @@ C:\Projetos\estoque-de-produto\EstoqueProduto\EstoqueProduto\bin\Debug\netcoreap
 C:\Projetos\estoque-de-produto\EstoqueProduto\EstoqueProduto\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Projetos\estoque-de-produto\EstoqueProduto\EstoqueProduto\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Projetos\estoque-de-produto\EstoqueProduto\EstoqueProduto\obj\Debug\netcoreapp3.1\EstoqueProduto.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\estoque-de-produto\EstoqueProduto\EstoqueProduto\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projetos\estoque-de-produto\EstoqueProduto\EstoqueProduto\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Projetos\estoque-de-produto\EstoqueProduto\EstoqueProduto\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\estoque-de-produto\EstoqueProduto\EstoqueProduto\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\estoque-de-produto\EstoqueProduto\EstoqueProduto\bin\Debug\netcoreapp3.1\Data.dll
+C:\Projetos\estoque-de-produto\EstoqueProduto\EstoqueProduto\bin\Debug\netcoreapp3.1\Data.pdb

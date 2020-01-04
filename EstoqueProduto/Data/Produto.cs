@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+
 namespace Data
 {
     [Table("Produto")]
@@ -15,6 +16,6 @@ namespace Data
         public int Quantidade { get; set; }
         
         [Column("Preco")]
-        public float Preco { get; set; }
+        public double Preco { get; set; }
     }
 }

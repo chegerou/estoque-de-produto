@@ -1659,9 +1659,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\estoque-de-produto\\EstoqueProduto\\Data\\DataFramework.csproj",
-      "projectName": "DataFramework",
-      "projectPath": "C:\\Projetos\\estoque-de-produto\\EstoqueProduto\\Data\\DataFramework.csproj",
+      "projectUniqueName": "C:\\Projetos\\estoque-de-produto\\EstoqueProduto\\Data\\Data.csproj",
+      "projectName": "Data",
+      "projectPath": "C:\\Projetos\\estoque-de-produto\\EstoqueProduto\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\igora\\.nuget\\packages\\",
       "outputPath": "C:\\Projetos\\estoque-de-produto\\EstoqueProduto\\Data\\obj\\",
       "projectStyle": "PackageReference",

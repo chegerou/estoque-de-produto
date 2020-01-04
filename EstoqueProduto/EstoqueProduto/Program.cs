@@ -1,7 +1,7 @@
+using Data;
+using EstoqueProduto.Model;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
-using DataFramework;
-
 
 namespace EstoqueProduto
 {
