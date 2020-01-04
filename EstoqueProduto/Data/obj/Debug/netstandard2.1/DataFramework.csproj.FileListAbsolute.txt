@@ -1,0 +1,8 @@
+C:\Projetos\estoque-de-produto\EstoqueProduto\Data\bin\Debug\netstandard2.1\DataFramework.deps.json
+C:\Projetos\estoque-de-produto\EstoqueProduto\Data\bin\Debug\netstandard2.1\DataFramework.dll
+C:\Projetos\estoque-de-produto\EstoqueProduto\Data\obj\Debug\netstandard2.1\DataFramework.csprojAssemblyReference.cache
+C:\Projetos\estoque-de-produto\EstoqueProduto\Data\obj\Debug\netstandard2.1\DataFramework.AssemblyInfoInputs.cache
+C:\Projetos\estoque-de-produto\EstoqueProduto\Data\obj\Debug\netstandard2.1\DataFramework.AssemblyInfo.cs
+C:\Projetos\estoque-de-produto\EstoqueProduto\Data\bin\Debug\netstandard2.1\DataFramework.pdb
+C:\Projetos\estoque-de-produto\EstoqueProduto\Data\obj\Debug\netstandard2.1\DataFramework.dll
+C:\Projetos\estoque-de-produto\EstoqueProduto\Data\obj\Debug\netstandard2.1\DataFramework.pdb

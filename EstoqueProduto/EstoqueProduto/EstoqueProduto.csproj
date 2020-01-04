@@ -4,4 +4,14 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DataFramework">
+      <HintPath>..\Data\bin\Debug\netstandard2.1\DataFramework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
