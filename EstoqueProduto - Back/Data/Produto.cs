@@ -7,7 +7,7 @@ namespace Data
     public class Produto
     {
         [Column("Id"), Key]
-        public int Id { get; set; }
+        public int? Id { get; set; }
 
         [Column("Nome")]
         public string Nome { get; set; }

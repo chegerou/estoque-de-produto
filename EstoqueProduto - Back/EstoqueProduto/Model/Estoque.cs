@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Web.Helpers;
 
 namespace EstoqueProduto.Model
 {
@@ -62,18 +63,13 @@ namespace EstoqueProduto.Model
             }
         }
 
-        public string DeletarProduto(int id)
+        public void DeletarProduto(int id)
         {
             try
             {
                 using (var context = new DataContext())
                 {                   
                     context.Delete(this.BuscarProduto(id));
-                    
-                    if(this.BuscarProduto(id) == null)
-                        return "O Produto foi deletado.";
-                    else
-                        return "Houve um erro ao deletar o produto.";
                 }
             }
             catch (Exception ex)

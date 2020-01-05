@@ -6,3 +6,11 @@ C:\Projetos\estoque-de-produto\EstoqueProduto\Data\obj\Debug\netstandard2.1\Data
 C:\Projetos\estoque-de-produto\EstoqueProduto\Data\obj\Debug\netstandard2.1\Data.AssemblyInfo.cs
 C:\Projetos\estoque-de-produto\EstoqueProduto\Data\obj\Debug\netstandard2.1\Data.dll
 C:\Projetos\estoque-de-produto\EstoqueProduto\Data\obj\Debug\netstandard2.1\Data.pdb
+C:\Projetos\estoque-de-produto\EstoqueProduto - Back\Data\bin\Debug\netstandard2.1\Data.deps.json
+C:\Projetos\estoque-de-produto\EstoqueProduto - Back\Data\bin\Debug\netstandard2.1\Data.dll
+C:\Projetos\estoque-de-produto\EstoqueProduto - Back\Data\bin\Debug\netstandard2.1\Data.pdb
+C:\Projetos\estoque-de-produto\EstoqueProduto - Back\Data\obj\Debug\netstandard2.1\Data.csprojAssemblyReference.cache
+C:\Projetos\estoque-de-produto\EstoqueProduto - Back\Data\obj\Debug\netstandard2.1\Data.AssemblyInfoInputs.cache
+C:\Projetos\estoque-de-produto\EstoqueProduto - Back\Data\obj\Debug\netstandard2.1\Data.AssemblyInfo.cs
+C:\Projetos\estoque-de-produto\EstoqueProduto - Back\Data\obj\Debug\netstandard2.1\Data.dll
+C:\Projetos\estoque-de-produto\EstoqueProduto - Back\Data\obj\Debug\netstandard2.1\Data.pdb

@@ -1,0 +1,36 @@
+<mat-card>
+    <mat-card-title>
+        Produtos
+    </mat-card-title>
+
+    <mat-card-content>
+        <div fxLayout="column">
+            <label>Nome:</label>
+            <input class="margin-left" [(ngModel)]="nome">
+
+            <label class="margin-left">Quantidade:</label>
+            <input class="margin-left" [(ngModel)]="quantidade">
+
+            <label class="margin-left">Preco:</label>
+            <input class="margin-left" [(ngModel)]="preco">
+
+            <button mat-button color="primary" class="margin-left" (click)="save()">Salvar</button>
+        </div>
+
+        <mat-list>
+            <h3>Produtos existentes no estoque</h3>
+            <mat-list-item *ngFor="let pro of produto">
+                    <mat-icon mat-list-icon>shopping-basket</mat-icon>
+                    <span mat-line>
+                    Nome : {{pro.nome}} | Quantidade: {{pro.quantidade}}  |  Preço: {{pro.preco}}
+                    </span>
+                    <button mat-icon-button color="accent" (click)="delete(pro)">
+                        <mat-icon>delete</mat-icon>
+                    </button>
+                    <button mat-icon-button color="primary" (click)="edit(pro)">
+                        <mat-icon>edit</mat-icon>
+                    </button>
+            </mat-list-item>
+        </mat-list>
+    </mat-card-content>
+</mat-card>

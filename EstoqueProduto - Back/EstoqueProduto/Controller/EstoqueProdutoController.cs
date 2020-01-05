@@ -2,6 +2,7 @@
 using EstoqueProduto.Model;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
+using System.Web.Helpers;
 
 namespace EstoqueProduto.Controller
 {
@@ -28,9 +29,9 @@ namespace EstoqueProduto.Controller
         }
 
         [HttpDelete("DeleteProduto")]
-        public string DeleteProduto(int idProduto)
+        public void DeleteProduto(int idProduto)
         {
-            return new Estoque().DeletarProduto(idProduto);
+            new Estoque().DeletarProduto(idProduto);
         }
 
         [HttpPost("PostProduto")]

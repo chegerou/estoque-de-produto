@@ -15,7 +15,14 @@ namespace EstoqueProduto
     {
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllers();
+            services.AddControllers().AddNewtonsoftJson();
+            services.AddCors(options =>
+            {
+                options.AddPolicy("Origens especificas",builder =>
+                {
+                    builder.WithOrigins("http://localhost:4200/");
+                });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -25,14 +32,17 @@ namespace EstoqueProduto
             {
                 app.UseDeveloperExceptionPage();
             }
-
+                                 
             app.UseRouting();
-
+            app.UseCors("Origens especificas");
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
                 endpoints.MapControllerRoute("default", "{controller=Home}/{action=Index}/{id?}");
             });
+
+
+
         }
     }
 }
