@@ -1,5 +1,4 @@
-# A ideia é montar um estoque de produtos em que seja possível realizar um CRUD básico no banco de
-dados
+# A ideia é montar um estoque de produtos em que seja possível realizar um CRUD básico no banco de dados
 - O projeto terá apenas uma tela para que o usuário não perca muito seu tempo ao esperar o
 carregamento para acessar outra página. Essa tela terá todos os requisítos básicos para que o usuário
 possa Cadastrar, Alterar, Excluir e visualizar a lista de todos os produtos.
