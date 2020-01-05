@@ -7506,11 +7506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\estoque-de-produto\\EstoqueProduto\\EstoqueProduto\\EstoqueProduto.csproj",
+      "projectUniqueName": "C:\\Projetos\\estoque-de-produto\\EstoqueProduto - Back\\EstoqueProduto\\EstoqueProduto.csproj",
       "projectName": "EstoqueProduto",
-      "projectPath": "C:\\Projetos\\estoque-de-produto\\EstoqueProduto\\EstoqueProduto\\EstoqueProduto.csproj",
+      "projectPath": "C:\\Projetos\\estoque-de-produto\\EstoqueProduto - Back\\EstoqueProduto\\EstoqueProduto.csproj",
       "packagesPath": "C:\\Users\\igora\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\estoque-de-produto\\EstoqueProduto\\EstoqueProduto\\obj\\",
+      "outputPath": "C:\\Projetos\\estoque-de-produto\\EstoqueProduto - Back\\EstoqueProduto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\igora\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7526,8 +7526,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Projetos\\estoque-de-produto\\EstoqueProduto\\Data\\Data.csproj": {
-              "projectPath": "C:\\Projetos\\estoque-de-produto\\EstoqueProduto\\Data\\Data.csproj"
+            "C:\\Projetos\\estoque-de-produto\\EstoqueProduto - Back\\Data\\Data.csproj": {
+              "projectPath": "C:\\Projetos\\estoque-de-produto\\EstoqueProduto - Back\\Data\\Data.csproj"
             }
           }
         }

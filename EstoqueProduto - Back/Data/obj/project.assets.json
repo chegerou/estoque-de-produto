@@ -1659,11 +1659,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\estoque-de-produto\\EstoqueProduto\\Data\\Data.csproj",
+      "projectUniqueName": "C:\\Projetos\\estoque-de-produto\\EstoqueProduto - Back\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Projetos\\estoque-de-produto\\EstoqueProduto\\Data\\Data.csproj",
+      "projectPath": "C:\\Projetos\\estoque-de-produto\\EstoqueProduto - Back\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\igora\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\estoque-de-produto\\EstoqueProduto\\Data\\obj\\",
+      "outputPath": "C:\\Projetos\\estoque-de-produto\\EstoqueProduto - Back\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\igora\\AppData\\Roaming\\NuGet\\NuGet.Config",
